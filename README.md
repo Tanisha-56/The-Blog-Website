@@ -1,2 +1,2 @@
 # The-Blog-Website
-HTML, CSS
+HTML, CSS, Javascript
